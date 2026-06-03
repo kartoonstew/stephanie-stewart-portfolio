@@ -1,3 +1,5 @@
 .DS_Store
 ._*
 Thumbs.db
+# Generated single-file offline build (large; not for web deploy)
+Stephanie Stewart Portfolio (offline).html
